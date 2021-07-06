@@ -25,6 +25,10 @@ h1 {
     text-align: flexible;
 }
 
+.About-Me {
+    padding-top: 100px;
+}
+
 .half-width img {
     width: 80%;
     padding-left: 2%;
@@ -47,4 +51,48 @@ h1 {
     background-image: url(images/shapes/f57.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.recipies-section {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.para-txt {
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 20px;
+}
+
+.recipie-section {
+    display: flex;
+    margin-bottom: 5%;
+}
+
+.recipie {
+    text-align: left;
+    padding: 5%;
+}
+
+.recipies img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.recipie-item {
+    box-shadow: 5px 5px 30px gray;
+    padding: 20px;
+    margin-right: 2%;
+    margin-left: 2%;
+    border-radius: 30px;
+}
+
+.footer {
+    background-color: rgb(14, 14, 14);
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin: 2%;
 }
