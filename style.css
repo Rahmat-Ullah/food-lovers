@@ -4,6 +4,30 @@ body {
     margin: 0%;
 }
 
+.menu-list {
+    width: 15%;
+    text-align: right;
+}
+
+.logo {
+    align-items: left;
+    font-size: 25px;
+    margin: auto;
+    width: 80%;
+}
+
+.menu {
+    color: black;
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    margin: auto;
+    border-bottom: 2px solid #000;
+    width: 80%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
 h1 {
     font-size: 40px;
 }
