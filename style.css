@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'STIX Two Math', serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 5%;
+    text-align: flexible;
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 2%;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+.button {
+    margin-top: 50px;
+}
+
+.about-me {
+    background-image: url(images/shapes/f57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
